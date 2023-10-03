@@ -14,7 +14,7 @@
 /* Add styling for the header */
 header {
   background-color: #3498db;
-  padding: 10px;
+  padding: 0px;
   color: white;
 }
 
